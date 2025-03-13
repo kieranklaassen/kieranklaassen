@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm building AI software and building blocks to create your own frameworks.
+I'm building AI software and Ruby gems to help you build AI apps in Ruby and Rails.
