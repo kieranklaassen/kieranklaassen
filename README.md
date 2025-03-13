@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm building AI software and Ruby gems to help you build AI apps in Ruby and Rails.
+I'm building https://cora.computer and Ruby gems to help you build AI apps in Ruby and Rails.
